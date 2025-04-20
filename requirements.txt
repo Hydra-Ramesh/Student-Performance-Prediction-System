@@ -1,1 +1,1 @@
-skilit-learn
+scilit-learn
